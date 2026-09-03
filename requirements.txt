@@ -1,0 +1,3 @@
+# Northstar dependencies (to be filled in as crawler takes shape)
+requests
+beautifulsoup4
